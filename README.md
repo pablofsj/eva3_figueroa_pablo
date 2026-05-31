@@ -14,13 +14,12 @@ Rediseño interactivo y accesible del portal **Sercotec Centro de Negocios Santi
 ## Estructura del Proyecto
 
 ```text
-sercotec/
+root/
 ├── README.md
 ├── docs/ 
 │   └── BUENAS_PRACTICAS.md
 └── sercotec-frontend/
-    ├── index.html
-    ├── src/
+    ├── src/    
     │   ├── main.js
     │   ├── App.vue
     │   ├── components/
