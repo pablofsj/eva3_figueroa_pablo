@@ -16,9 +16,8 @@ Rediseño interactivo y accesible del portal **Sercotec Centro de Negocios Santi
 ```text
 sercotec/
 ├── README.md
-├── docs/
-│   ├── BUENAS_PRACTICAS.md
-│   └── RETROSPECTIVA.md
+├── docs/ 
+│   └── BUENAS_PRACTICAS.md
 └── sercotec-frontend/
     ├── index.html
     ├── src/
